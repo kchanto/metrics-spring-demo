@@ -1,0 +1,6 @@
+metrics:
+  graphite:
+    uri: 192.168.99.100
+    port: 2003
+    prefix: metrics-spring
+    seconds: 30
